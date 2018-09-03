@@ -1,0 +1,21 @@
+{
+  "name": "electroservice",
+  "description": "site for electro service",
+  "main": "index.js",
+  "authors": [
+    "LeTien"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
